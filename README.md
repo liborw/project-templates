@@ -6,7 +6,7 @@ A collection of project templates. Each template serve as sort of starting point
 Lets say you want to write a latex article. If you do not have a local copy of this repository,
 you should make one, suppose that we want to store it in `~/Repos/project-templates`:
 
-    git clone git://github.com/liborw/binfiles.git ~/Repos/project-templates
+    git clone git://github.com/liborw/project-templates.git ~/Repos/project-templates
     cd ~/Repos/project-templates
     git submodule init
     git submodule update
