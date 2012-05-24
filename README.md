@@ -20,7 +20,7 @@ templates or submodules.
 
 ## Already in the collection
 
-    
+  - **latex-article:** A minimalistic latex article project.
 
 ## Contributing
 Any kind of feedback and contribution is welcome.
