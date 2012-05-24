@@ -13,7 +13,9 @@ you should make one, suppose that we want to store it in `~/Repos/project-templa
 
 then `cd` to the path where you want to make the new project and copy the `latex-article` project template:
 
-    cp -L ~/Repos/project-templates/latex-article new-article
+    cp -rL ~/Repos/project-templates/latex-article new-article
+    cd new-article
+    git init
 
 and you are ready to go. The `-L` option is crucial as some of the files in the template are symlinks to other
 templates or submodules.
